@@ -1,0 +1,10 @@
+sami
+sami123
+task1: watch a django tutorial
+take a 5 min break
+task2: do training of a CNN model for computer vision
+task3:Go to the gym for 30 min
+take a shower
+task4: wash clothes
+task5: do my homework
+Tips For Better Day : Stay hydrated to be more energetic

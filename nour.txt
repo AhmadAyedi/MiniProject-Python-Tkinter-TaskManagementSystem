@@ -1,4 +1,6 @@
 nour
 nour123
-algebre 
-analyse
+task1:Math from 9 to 11
+task2:Physics from 11 to 1
+take a Break for 30 minutes
+task3: Back to work with chemestry
